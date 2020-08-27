@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "recommend": "../../commpents/homeSwiper/recommend/recommend"
+  }
+}
