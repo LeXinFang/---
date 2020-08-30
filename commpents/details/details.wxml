@@ -1,0 +1,7 @@
+<!--commpents/details/details.wxml-->
+<view class="details">
+<view class="footer">
+  <image src="/assets/icons/pause1.png"></image>
+  <image src="/assets/icons/play1.png"></image>
+</view>
+</view>

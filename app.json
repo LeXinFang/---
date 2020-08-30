@@ -4,7 +4,8 @@
     "pages/logs/logs",
     "pages/home/home",
     "commpents/homeSwiper/recommend/recommend",
-    "pages/others/others"
+    "pages/others/others",
+    "commpents/details/details"
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -45,7 +45,8 @@ Page({
     let timer = setTimeout(()=>{
       clearTimeout(timer)
       wx.redirectTo({
-        url: '../home/home'
+        // url: '../home/home'
+        url: '/commpents/details/details'
       })
     },0)
   },

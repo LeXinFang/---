@@ -1,0 +1,16 @@
+/* commpents/details/details.wxss */
+.details{
+  width: 100vh;
+  height: 100vw;
+  vertical-align: bottom;
+}
+.footer{
+  width: 100vw;
+  height: 100rpx;
+  display: flex;
+  justify-content: space-around;
+}
+.footer image{
+  width: 60rpx;
+  height: 60rpx;
+}
